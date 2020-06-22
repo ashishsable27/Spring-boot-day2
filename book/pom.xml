@@ -40,8 +40,9 @@
 			<scope>runtime</scope>
 			<optional>true</optional>
 		</dependency>
+		//Added by ashish
 		<dependency>
-			<groupId>com.h2database</groupId>
+			<groupId>com.hdatabase</groupId>
 			<artifactId>h2</artifactId>
 			<scope>runtime</scope>
 		</dependency>
