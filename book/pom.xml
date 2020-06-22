@@ -19,6 +19,7 @@
 	</properties>
 
 	<dependencies>
+
 		//Added by ashish
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
